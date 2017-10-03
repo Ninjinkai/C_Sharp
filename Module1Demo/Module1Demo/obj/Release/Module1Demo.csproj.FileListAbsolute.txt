@@ -1,0 +1,5 @@
+C:\Users\Nick\OneDrive\Documents\C#\Module1Demo\Module1Demo\bin\Release\Module1Demo.exe.config
+C:\Users\Nick\OneDrive\Documents\C#\Module1Demo\Module1Demo\bin\Release\Module1Demo.exe
+C:\Users\Nick\OneDrive\Documents\C#\Module1Demo\Module1Demo\bin\Release\Module1Demo.pdb
+C:\Users\Nick\OneDrive\Documents\C#\Module1Demo\Module1Demo\obj\Release\Module1Demo.exe
+C:\Users\Nick\OneDrive\Documents\C#\Module1Demo\Module1Demo\obj\Release\Module1Demo.pdb

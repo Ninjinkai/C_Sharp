@@ -1,0 +1,9 @@
+C:\Users\Nick\OneDrive\Documents\C#\Module1Demo\Module1Demo\bin\Debug\Module1Demo.exe.config
+C:\Users\Nick\OneDrive\Documents\C#\Module1Demo\Module1Demo\obj\Debug\Module1Demo.csprojResolveAssemblyReference.cache
+C:\Users\Nick\OneDrive\Documents\C#\Module1Demo\Module1Demo\bin\Debug\Module1Demo.exe
+C:\Users\Nick\OneDrive\Documents\C#\Module1Demo\Module1Demo\bin\Debug\Module1Demo.pdb
+C:\Users\Nick\OneDrive\Documents\C#\Module1Demo\Module1Demo\obj\Debug\Module1Demo.exe
+C:\Users\Nick\OneDrive\Documents\C#\Module1Demo\Module1Demo\obj\Debug\Module1Demo.pdb
+C:\Users\Nick\OneDrive\Documents\C#\C_Sharp\Module1Demo\Module1Demo\bin\Debug\Module1Demo.exe.config
+C:\Users\Nick\OneDrive\Documents\C#\C_Sharp\Module1Demo\Module1Demo\obj\Debug\Module1Demo.exe
+C:\Users\Nick\OneDrive\Documents\C#\C_Sharp\Module1Demo\Module1Demo\obj\Debug\Module1Demo.pdb
