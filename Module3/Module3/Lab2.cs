@@ -32,7 +32,7 @@ namespace Module3
             }
             catch (DivideByZeroException ex)
             {
-                Console.WriteLine("Attempted to divide by zero.\nException: {ex");
+                Console.WriteLine($"Attempted to divide by zero.\nException: {ex}");
             }
 
             return result;

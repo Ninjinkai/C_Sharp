@@ -10,6 +10,7 @@ namespace Module3
     {
         static void Main(string[] args)
         {
+            /*
             int x = 3, y = 4, z = 5, zero = 0;
             Lab1.Sum(x, y);
             Lab1.Sum((double) x/2, (double) y/2);
@@ -21,6 +22,11 @@ namespace Module3
 
             Console.WriteLine($"{x} divided by {zero} is {Lab2.Divide(x, zero)}.");
             Console.WriteLine($"{x} divided by {zero} is {Lab2.Divide((double) x, (double) zero)}.");
+            */
+
+            SelfAssessment.RunStudent();
+            SelfAssessment.RunTeacher();
+            SelfAssessment.RunCourse();
         }
     }
 }
